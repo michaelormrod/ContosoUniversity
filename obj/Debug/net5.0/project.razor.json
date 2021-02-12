@@ -15603,6 +15603,11 @@
   "RootNamespace": "ContosoUniversity",
   "Documents": [
     {
+      "FilePath": "/Users/michaelormrod/Projects/ContosoUniversity/ContosoUniversity/Pages/Departments/Create.cshtml",
+      "TargetPath": "Pages\\Departments\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/Users/michaelormrod/Projects/ContosoUniversity/ContosoUniversity/Pages/About.cshtml",
       "TargetPath": "Pages\\About.cshtml",
       "FileKind": "mvc"
@@ -15615,6 +15620,11 @@
     {
       "FilePath": "/Users/michaelormrod/Projects/ContosoUniversity/ContosoUniversity/Pages/Instructors/Details.cshtml",
       "TargetPath": "Pages\\Instructors\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/michaelormrod/Projects/ContosoUniversity/ContosoUniversity/Pages/Departments/Delete.cshtml",
+      "TargetPath": "Pages\\Departments\\Delete.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -15678,6 +15688,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "/Users/michaelormrod/Projects/ContosoUniversity/ContosoUniversity/Pages/Departments/Index.cshtml",
+      "TargetPath": "Pages\\Departments\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/Users/michaelormrod/Projects/ContosoUniversity/ContosoUniversity/Pages/Students/Edit.cshtml",
       "TargetPath": "Pages\\Students\\Edit.cshtml",
       "FileKind": "mvc"
@@ -15685,6 +15700,16 @@
     {
       "FilePath": "/Users/michaelormrod/Projects/ContosoUniversity/ContosoUniversity/Pages/Students/Details.cshtml",
       "TargetPath": "Pages\\Students\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/michaelormrod/Projects/ContosoUniversity/ContosoUniversity/Pages/Departments/Details.cshtml",
+      "TargetPath": "Pages\\Departments\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/michaelormrod/Projects/ContosoUniversity/ContosoUniversity/Pages/Departments/Edit.cshtml",
+      "TargetPath": "Pages\\Departments\\Edit.cshtml",
       "FileKind": "mvc"
     },
     {
